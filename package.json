@@ -1,0 +1,20 @@
+{
+  "name": "chuck-norris-app",
+  "version": "1.0.0",
+  "description": "Snap nodejs - Chuck Norris quotation nodejs server ",
+  "bin": {
+    "chuck-norris-app": "./main.js",
+    "chuck-norris-cli": "./cli.js"
+  },
+  "keywords": [
+    "alpha",
+    "snap",
+    "nodejs"
+  ],
+  "author": "@cicciosgamino",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "chucknorris-io": "^1.0.5"
+  }
+}
